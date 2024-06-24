@@ -5,4 +5,4 @@ To watch the videos, you can go check the playlist out at: https://www.youtube.c
 
 To subscribe to codebasics youtube channel: https://www.youtube.com/c/codebasics
 
-# Started 24/06/2024
+Started 24/06/2024: Kusalin Thanyakulsajja
