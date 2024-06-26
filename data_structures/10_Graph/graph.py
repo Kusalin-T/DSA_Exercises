@@ -21,8 +21,7 @@ class Graph:
         paths = []
         for node in self.graph_dict[start]:
             if node not in path:
-                new_paths = self.get_paths(node, end, path)
-                for p in new_paths:
+                for p in self.get_paths(node, end, path):
                     paths.append(p)
 
         return paths
